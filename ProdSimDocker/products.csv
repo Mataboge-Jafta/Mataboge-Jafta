@@ -1,0 +1,449 @@
+,productKey,productId,sourceSystemId,active,version,productType,merchandiseCategory,baseUOM,createdOn,changedOn,description
+0,AA1,MR411412,,,,,Digital Cameras,EA,,,10 MP Camera with Zoom
+1,AA2,MR311279,,,,,Coffee,EA,,,100% Colombian
+2,AA3,MR314111,,,,,Pastries,EA,,,2% Milk 1 Gallon
+3,AA4,MR311654,,,,,Pasta Sauce,EA,,,Alfredo 
+4,AA5,MR311655,,,,,Pasta Sauce,EA,,,Alfredo Gluten Free
+5,AA6,MR311656,,,,,Pasta Sauce,EA,,,"Alfredo GMO Free, Organic"
+6,AA7,MR311657,,,,,Pasta Sauce,EA,,,Alfredo Vegetarian
+7,AA8,MR411210,,,,,MP3 Player,EA,,,Apple 160GB iPod classic  Silver (New)
+8,AA9,MR411211,,,,,MP3 Player,EA,,,Apple 160GB iPod classic  White (New)
+9,AA10,MR311260,,,,,Juice,EA,,,"Apple Juice, 250ml"
+10,AA11,MR315341,,,,,Facial Treatments,EA,,,Aveno CLEAR COMPLEXION CLEANSING BAR
+11,AA12,MR315351,,,,,Sun Care,EA,,,Aveno PROTECT UNBLOCK LOTION SPF 15 BODY
+12,AA13,MR712345,,,,,Fresh,EA,,,Bagged Lettuce
+13,AA14,MR412310,,,,,Built-in kitchens,EA,,,Base Cabinet with shelf/drawer/door
+14,AA15,MR412311,,,,,Built-in kitchens,EA,,,Base Cabinet with wire Basket/draw/door
+15,AA16,MR311511,,,,,Bars,EA,,,Baskin_Robbins 
+16,AA17,MR311341,,,,,Salty Snacks,EA,,,BBQ Flavored Corn Chips
+17,AA18,MR311232,,,,,Beer & Spirits,EA,,,Becks 18 pk
+18,AA19,MR311645,,,,,Soups,EA,,,Beef Broth
+19,AA20,MR311646,,,,,Soups,EA,,,Beef Broth French Onion Style
+20,AA21,MR311231,,,,,Beer & Spirits,EA,,,Beer 12 pk
+21,AA22,MR311290,,,,,Tea,EA,,,BIGELOW CONSTANT COMMENT TEA BAGS
+22,AA23,MR311291,,,,,Tea,EA,,,BLACK TEA - SWEETENED
+23,AA24,MR516149,,,,,Jewellery,EA,,,Blossom Earring
+24,AA25,MR516147,,,,,Jewellery,EA,,,Blossom Necklace
+25,AA26,MR516218,,,,,Lips,EA,,,BOOTS NO. 7 LINE & DEFINE LIP PENCIL - C
+26,AA27,MR516219,,,,,Lips,EA,,,BOOTS NO. 7 LINE & DEFINE LIP PENCIL - N
+27,AA28,MR585158,,,,,ants,EA,,,"Boys Jeans, 28"
+28,AA29,MR585159,,,,,Sweater,EA,,,"Boys Shirt, RED"
+29,AA30,MR412611,,,,,Floor Lamps,EA,,,Brunswick Floor lamp handmade shade
+30,AA31,MR412610,,,,,Floor Lamps,EA,,,Brunswick Floor lamp with dimmer
+31,AA32,MR311278,,,,,Coffee,EA,,,Café Vanilla Latte
+32,AA33,MR516122005,,,,,Coat,EA,,,Capri Turtleneck Black Size 30
+33,AA34,MR516122010,,,,,Coat,EA,,,Capri Turtleneck Black Size 31
+34,AA35,MR516122015,,,,,Coat,EA,,,Capri Turtleneck Black Size 32
+35,AA36,MR516122020,,,,,Coat,EA,,,Capri Turtleneck Black Size 34
+36,AA37,MR516122025,,,,,Coat,EA,,,Capri Turtleneck Black Size 36
+37,AA38,MR516122001,,,,,Coat,EA,,,Capri Turtleneck Blue Size 30
+38,AA39,MR516122006,,,,,Coat,EA,,,Capri Turtleneck Blue Size 31
+39,AA40,MR516122011,,,,,Coat,EA,,,Capri Turtleneck Blue Size 32
+40,AA41,MR516122016,,,,,Coat,EA,,,Capri Turtleneck Blue Size 34
+41,AA42,MR516122021,,,,,Coat,EA,,,Capri Turtleneck Blue Size 36
+42,AA43,MR516122002,,,,,Coat,EA,,,Capri Turtleneck Green Size 30
+43,AA44,MR516122007,,,,,Coat,EA,,,Capri Turtleneck Green Size 31
+44,AA45,MR516122012,,,,,Coat,EA,,,Capri Turtleneck Green Size 32
+45,AA46,MR516122017,,,,,Coat,EA,,,Capri Turtleneck Green Size 34
+46,AA47,MR516122022,,,,,Coat,EA,,,Capri Turtleneck Green Size 36
+47,AA48,MR516122004,,,,,Coat,EA,,,Capri Turtleneck Navy Size 30
+48,AA49,MR516122009,,,,,Coat,EA,,,Capri Turtleneck Navy Size 31
+49,AA50,MR516122014,,,,,Coat,EA,,,Capri Turtleneck Navy Size 32
+50,AA51,MR516122019,,,,,Coat,EA,,,Capri Turtleneck Navy Size 34
+51,AA52,MR516122024,,,,,Coat,EA,,,Capri Turtleneck Navy Size 36
+52,AA53,MR516122003,,,,,Coat,EA,,,Capri Turtleneck White Size 30
+53,AA54,MR516122008,,,,,Coat,EA,,,Capri Turtleneck White Size 31
+54,AA55,MR516122013,,,,,Coat,EA,,,Capri Turtleneck White Size 32
+55,AA56,MR516122018,,,,,Coat,EA,,,Capri Turtleneck White Size 34
+56,AA57,MR516122023,,,,,Coat,EA,,,Capri Turtleneck White Size 36
+57,AA58,MR412114,,,,,Sofas,EA,,,Caribbean Lounger
+58,AA59,MR516148,,,,,Jewellery,EA,,,Chantini Earring
+59,AA60,MR516135,,,,,Jewellery,EA,,,Chantini Necklace
+60,AA61,MR712346,,,,,Fresh,EA,,,Cherry Tomato Organic
+61,AA62,MR712347,,,,,Fresh,EA,,,Cherry Tomato
+62,AA63,MR314312,,,,,Yoghurts,EA,,,Cherry Yogurt 250g
+63,AA64,MR311325,,,,,Salty Snacks,EA,,,Chili Cheese Flavored Corn Chips
+64,AA65,MR311342,,,,,Chips/Pretzels,EA,,,Chili Cheese Flavored Corn Chips
+65,AA66,MR311122,,,,,Cold Cereal,CT,,,Chocolate Flakes 20 oz
+66,AA67,MR412122,,,,,Chairs,EA,,,Classic Chair
+67,AA68,MR412113,,,,,Sofas,EA,,,Classic Library Couch
+68,AA69,MR315320,,,,,Hand & Body Bar Soap,EA,,,"Clean & Soft, Glycerin Bar Soap"
+69,AA70,MR315331,,,,,Facial Cleansers,EA,,,Clearasol - CREAM MAXIMUM STRENGTH
+70,AA71,MR320211,,,,,Soda,CT,,,Coca Cola 2liter
+71,AA72,MR412412,,,,,Office Tables,EA,,,"Conference table 96""W x 30""H x 2"
+72,AA73,MR311121,,,,,Cold Cereal,CT,,,Corn Flakes 20 oz
+73,AA74,MR311301,,,,,Cookies/Crackers,EA,,,Crackers
+74,AA75,MR311351,,,,,Fruit Snacks,EA,,,CROCKER FRT B-T-F MINI FEET BOOMBERRY
+75,AA76,MR311352,,,,,Fruit Snacks,EA,,,CROCKER FRUIT RL UPS BLASTIN BERRY
+76,AA77,MR311129,,,,,Cold Cereal,CT,,,Crunchy Oat Flakes 12oz
+77,AA78,MR712348,,,,,Fresh,EA,,,Cucumber
+78,AA79,MR712349,,,,,Fresh,EA,,,Cucumber Organic
+79,AA80,MR315923,,,,,Laundry,EA,,,Cuddle Soft: Tropical Breeze Ultra
+80,AA81,MR311630,,,,,Canned Vegetables,EA,,,Cut Green Beans
+81,AA82,MR314162,,,,,Sour Cream,EA,,,DAISY FAT FREE SOUR CREAM
+82,AA83,MR516133,,,,,Jewellery,EA,,,Darby Bracelet
+83,AA84,MR311220,,,,,Water,EA,,,DASANI PURIFIED WATER
+84,AA85,MR311619,,,,,Canned Fruits,EA,,,DEL MONTE LITE APPLE EXTRA LIGHT SYRUP
+85,AA86,MR320212,,,,,Soda,EA,,,Diet Coca Cola 2liter
+86,AA87,MR412142,,,,,Deco,EA,,,Document Frame
+87,AA88,MR311326,,,,,Chips/Pretzels,EA,,,Dry Roasted Peanuts 24oz
+88,AA89,MR411420,,,,,Camcorders,EA,,,"DVD Camcorder with 2.7"" LCD Monitor"
+89,AA90,MR314411,,,,,White Eggs,EA,,,EGG WHITE 60GR 12PC
+90,AA91,MR314412,,,,,White Eggs,EA,,,EGG WHITE 65GR 12PC
+91,AA92,MR319211,,,,,Bicycles,EA,,,ELECTRO 3I STEP-THRU BIKE - BLACK
+92,AA93,MR319212,,,,,Bicycles,EA,,,ELECTRO 3I STEP-THRU BIKE - HOT PINK
+93,AA94,MR311731,,,,,Kosher Foods,EA,,,ELITED CHOCOLATE WAFERS
+94,AA95,MR712355,,,,,Fresh,EA,,,English Cucumber
+95,AA96,MR712365,,,,,Fresh,,,,English Cucumber Organic
+96,AA97,MR315924,,,,,T-Shirts,EA,,,Exhilarations Blue Iris  50 Loads
+97,AA98,MR311658,,,,,Pasta Sauce,EA,,,Fire Roasted Tomato
+98,AA99,MR311659,,,,,Pasta Sauce,EA,,,Fire Roasted Tomato Gluten Free
+99,AA100,MR311660,,,,,Pasta Sauce,EA,,,Fire Roasted Tomato GMO Free Organic
+100,AA101,MR311661,,,,,Pasta Sauce,EA,,,Fire Roasted Tomato Vegetarian
+101,AA102,MR412411,,,,,Office Tables,EA,,,Four-Post Drafting Table Base metal
+102,AA103,MR318413,,,,,Pastries,EA,,,Fresh French Bread Wheat
+103,AA104,MR318412,,,,,Pastries,EA,,,Fresh French Bread.
+104,AA105,MR311123,,,,,Cold Cereal,CT,,,Frosted Flakes 20 oz
+105,AA106,MR318416,,,,,Pastries,EA,,,Frozen Garlic Bread
+106,AA107,MR318417,,,,,Pastries,EA,,,Frozen Garlic Bread Wheat
+107,AA108,MR318414,,,,,Pastries,EA,,,Garlic Bread
+108,AA109,MR318415,,,,,Pastries,EA,,,Garlic Bread Wheat
+109,AA110,MR411312,,,,,GPS Navigation,EA,,,Garmin - nvi 285W GPS
+110,AA111,MR411311,,,,,GPS Navigation,EA,,,Garmin - nvi 765T GPS
+111,AA113,MR595159,,,,,Tops,EA,,,Girls Blouse White
+112,AA114,MR595158,,,,,Pants,EA,,,Girls Jeans 28
+113,AA115,MR311125,,,,,Cold Cereal,CT,,,Golden Corn Flakes 20oz
+114,AA116,MR311711,,,,,Asian Foods,EA,,,GOLDEN STAR MAIFUN CHOW MEIN NOODLES
+115,AA117,MR315221,,,,,Accessories,EA,,,Goody Hair Barrettes
+116,AA118,MR712375,,,,,Fresh,EA,,,Grape Tomato
+117,AA119,MR712385,,,,,Fresh,EA,,,Grape Tomato Organic
+118,AA120,MR314102,,,,,Random Weight,EA,,,Grated Parmesan
+119,AA121,MR314501,,,,,Ground Meat,CT,,,Ground Beef
+120,AA122,MR314502,,,,,Turkey,CT,,,Ground Turkey
+121,AA123,MR314503,,,,,Turkey,CT,,,Ground Turkey Italian Seasoned
+122,AA124,MR700004,,,,,Handbags,EA,,,Handbag
+123,AA125,MR700018,,,,,Handbags,EA,,,Handbag w. zipper
+124,AA126,MR411421,,,,,Camcorders,EA,,,Hanycam Digital with 80 GB HDD 2.7
+125,AA127,MR525852,,,,,Belts/Braces,EA,,,Hassia belt
+126,AA128,MR412420,,,,,Office Chairs,EA,,,High-Back Executive Chair Navy Blue
+127,AA129,MR311124,,,,,Cold Cereal,CT,,,Honey Crunch Corn Flakes 20 oz
+128,AA130,MR314163,,,,,Sour Cream,EA,,,HORIZONTE LOW FAT SOUR CREAM
+129,AA131,MR516130,,,,,Bicycles,EA,,,JIANTE TCR ADVANCED - BLACK
+130,AA132,MR516131,,,,,Jewellery,EA,,,Juneau Bracelet
+131,AA133,MR311126,,,,,Cold Cereal,CT,,,Kellogg's Chocolate Flakes 20 oz
+132,AA134,MR525851,,,,,Belts/Braces,EA,,,Kitanay Belt
+133,AA135,MR319218,,,,,Bicycles,EA,,,KONA HULA HARD-TAIL 29ER - WHITE
+134,AA136,MR311721,,,,,Italian Foods,EA,,,Kraft Easy Mac Snack Pack Original
+135,AA137,MR314101,,,,,Random Weight,EA,,,Kraft Shredded Parmesan
+136,AA138,MR712395,,,,,Fresh,EA,,,Leaf Lettuce
+137,AA139,MR320214,,,,,Soda,EA,,,Lemon PEPSI Cola 2liter
+138,AA140,MR712445,,,,,Fresh,EA,,,Lettuce Organic
+139,AA141,MR712545,,,,,Digital Cameras,EA,,,liguang D90 12.3 Megapix Digit SLR Camera
+140,AA142,MR411122,,,,,Plasma,EA,,,"LOGO - 32"" FLAT-PANEL HDTV"
+141,AA143,MR411123,,,,,Plasma,EA,,,"LOGO - 37"" FLAT-PANEL HDTV"
+142,AA144,MR314201,,,,,Packaged Cheese,EA,,,LUCRENO NATURAL COLBY CHEESE
+143,AA145,MR712945,,,,,Business Casual ,EA,,,Men's Boat shoes
+144,AA146,MR550062007,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 10
+145,AA147,MR550162005,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 10
+146,AA148,MR550262003,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 10
+147,AA149,MR550162007,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 11
+148,AA150,MR550262005,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 11
+149,AA151,MR550262007,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 12
+150,AA152,MR550062001,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 7
+151,AA153,MR550062003,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 8
+152,AA154,MR550162001,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 8
+153,AA155,MR550262001,,,,,Business Casual ,EA,,,Men's Boat shoes Blue 9
+154,AA156,MR550062008,,,,,Business Casual ,EA,,,Men's Boat shoes Tan 10
+155,AA157,MR550162006,,,,,Business Casual ,EA,,,Men's Boat shoes Tan 10
+156,AA158,MR550262004,,,,,Business Casual ,EA,,,Men's Boat shoes Tan 10
+157,AA159,MR550062010,,,,,Business Casual ,EA,,,Men's Boat shoes Tan 11
+158,AA160,MR550162008,,,,,Business Casual ,EA,,,Men's Boat shoes Tan 12
+159,AA161,MR550062002,,,,,Business Casual ,EA,,,Men's Boat shoes Tan 7
+160,AA162,MR550162002,,,,,Business Casual ,EA,,,Men's Boat shoes Tan 8
+161,AA163,MR550062006,,,,,Business Casual ,EA,,,Men's Boat shoes Tan 9
+162,AA164,MR550260004,,,,,T-Shirts,EA,,,Mens House Mark Tshirts Black Medium
+163,AA165,MR550260002,,,,,T-Shirts,EA,,,Mens House Mark Tshirts Black Small
+164,AA166,MR550260005,,,,,T-Shirts,EA,,,Mens House Mark Tshirts Red Large
+165,AA167,MR550260003,,,,,T-Shirts,EA,,,Mens House Mark Tshirts Red Medium
+166,AA168,MR550260001,,,,,T-Shirts,EA,,,Mens House Mark Tshirts Red Small
+167,AA169,MR550061002,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Blue 30
+168,AA170,MR550061004,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Blue 32
+169,AA171,MR550061006,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Blue 34
+170,AA172,MR551261006,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Blue 36
+171,AA173,MR550061010,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Blue 38
+172,AA174,MR550061001,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Dark Blue 30
+173,AA175,MR550061003,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Dark Blue 32
+174,AA176,MR550061005,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Dark Blue 34
+175,AA177,MR550061007,,,,,T-Shirts,EA,,,Mens Jeans -Stone wash Dark Blue 36
+176,AA178,MR550261005,,,,,T-Shirts,EA,,,Men's Scoop Neck T-Shirt White Large
+177,AA179,MR550261003,,,,,T-Shirts,EA,,,Men's Scoop Neck T-Shirt White Medium
+178,AA180,MR550261002,,,,,T-Shirts,EA,,,Men's Scoop Neck T-Shirt Yellow  Small
+179,AA181,MR550261232,,,,,T-Shirts,EA,,,"Men's Scoop Neck T-, Yellow, Extra Large"
+180,AA182,MR550265642,,,,,T-Shirts,EA,,,"Men's Scoop Neck T-Shirt, White, Small"
+181,AA183,MR550261123,,,,,T-Shirts,EA,,,"Men's Scoop Neck T-Shirt, Yellow, Medium"
+182,AA184,MR550265623,,,,,T-Shirts,EA,,,"Men's Scoop Neck T-Shirt, Yellow, Small"
+183,AA185,MR550261006,,,,,T-Shirts,EA,,,Men's Scoop Neck T-Shirt Yellow Large
+184,AA186,MR550161008,,,,,T-Shirts,EA,,,Mens Stinson Belt Blue Extra Large
+185,AA187,MR550161006,,,,,T-Shirts,EA,,,Mens Stinson Belt Blue Large
+186,AA188,MR550161002,,,,,T-Shirts,EA,,,Mens Stinson Belt Blue Small
+187,AA189,MR550161007,,,,,T-Shirts,EA,,,Mens Stinson Belt Red Extra Large
+188,AA190,MR550161005,,,,,T-Shirts,EA,,,Mens Stinson Belt Red Large
+189,AA191,MR550161001,,,,,T-Shirts,EA,,,Mens Stinson Belt Red Small
+190,AA192,MR550060010,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Black  XXL
+191,AA193,MR550060004,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Black Medium
+192,AA194,MR550060002,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Black Small
+193,AA195,MR550060007,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Blue Extra Large
+194,AA196,MR550160008,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Black Extra Large
+195,AA197,MR550060005,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Blue Large
+196,AA198,MR550160006,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Blue Large
+197,AA199,MR550060003,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Blue Medium
+198,AA200,MR550160004,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Blue Small
+199,AA201,MR550160010,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Blue XXL
+200,AA202,MR550160007,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Red Extra Large
+201,AA203,MR550160005,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Red Large
+202,AA204,MR550160003,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Red Medium
+203,AA205,MR550160001,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Red Small
+204,AA206,MR550160009,,,,,T-Shirts,EA,,,Men's V-Neck T-Shirt Red XXL
+205,AA207,MR516120004,,,,,Coat,EA,,,Microfiber Cool Cami Black  Size 29
+206,AA208,MR516120008,,,,,Coat,EA,,,Microfiber Cool Cami Black Size 30
+207,AA209,MR516120012,,,,,Coat,EA,,,Microfiber Cool Cami Black Size 31
+208,AA210,MR516120016,,,,,Coat,EA,,,Microfiber Cool Cami Black Size 32
+209,AA211,MR516120020,,,,,Coat,EA,,,Microfiber Cool Cami Black Size 34
+210,AA212,MR516120002,,,,,Coat,EA,,,Microfiber Cool Cami Green Size 29
+211,AA213,MR516120006,,,,,Coat,EA,,,Microfiber Cool Cami Green Size 30
+212,AA214,MR516120010,,,,,Coat,EA,,,Microfiber Cool Cami Green Size 31
+213,AA215,MR516120014,,,,,Coat,EA,,,Microfiber Cool Cami Green Size 32
+214,AA216,MR516120018,,,,,Coat,EA,,,Microfiber Cool Cami Green Size 34
+215,AA217,MR516120021,,,,,Coat,EA,,,Microfiber Cool Cami Orange Size 29
+216,AA218,MR516120022,,,,,Coat,EA,,,Microfiber Cool Cami Orange Size 30
+217,AA219,MR516120023,,,,,Coat,EA,,,Microfiber Cool Cami Orange Size 31
+218,AA220,MR516120024,,,,,Coat,EA,,,Microfiber Cool Cami Orange Size 32
+219,AA221,MR516120025,,,,,Coat,EA,,,Microfiber Cool Cami Orange Size 34
+220,AA222,MR516120001,,,,,Coat,EA,,,Microfiber Cool Cami Red Size 29
+221,AA223,MR516120005,,,,,Coat,EA,,,Microfiber Cool Cami Red Size 30
+222,AA224,MR516120009,,,,,Coat,EA,,,Microfiber Cool Cami Red Size 31
+223,AA225,MR516120013,,,,,Coat,EA,,,Microfiber Cool Cami Red Size 32
+224,AA226,MR516120017,,,,,Coat,EA,,,Microfiber Cool Cami Red Size 34
+225,AA227,MR516120003,,,,,Coat,EA,,,Microfiber Cool Cami White Size 29
+226,AA228,MR516120007,,,,,Coat,EA,,,Microfiber Cool Cami White Size 30
+227,AA229,MR516120011,,,,,Coat,EA,,,Microfiber Cool Cami White Size 31
+228,AA230,MR516120015,,,,,Coat,EA,,,Microfiber Cool Cami White Size 32
+229,AA231,MR516120019,,,,,Coat,EA,,,Microfiber Cool Cami White Size 34
+230,AA232,MR311512,,,,,Bars,EA,,,Mint Patties
+231,AA233,MR516185,,,,,Sports jackets,EA,,,MOUNTAIN HEAVY JACKET - B
+232,AA234,MR516158,,,,,Jackets,EA,,,MOUNTAIN HEAVY JACKET - BLK
+233,AA235,MR516186,,,,,Sports jackets,EA,,,MOUNTAIN HEAVY JACKET - N
+234,AA236,MR516159,,,,,Jackets,EA,,,MOUNTAIN HEAVY JACKET - NAVY
+235,AA237,MR516187,,,,,Sports jackets,EA,,,MOUNTAIN HEAVY JACKET - R
+236,AA238,MR516160,,,,,Jackets,EA,,,MOUNTAIN HEAVY JACKET - RED
+237,AA239,MR516161,,,,,Jackets,EA,,,MOUNTAIN HEAVY JACKET - YELLOW
+238,AA240,MR516162,,,,,Jackets,EA,,,MOUNTAIN LIGHT JACKET - BLK
+239,AA241,MR516163,,,,,Jackets,EA,,,MOUNTAIN LIGHT JACKET - BROWN
+240,AA242,MR516164,,,,,Jackets,EA,,,MOUNTAIN LIGHT JACKET - NAVY
+241,AA243,MR516165,,,,,Jackets,EA,,,MOUNTAIN LIGHT JACKET - RED
+242,AA244,MR516166,,,,,Jackets,EA,,,MOUNTAIN LIGHT JACKET - YELLOW
+243,AA245,MR311302,,,,,Cookies/Crackers,EA,,,NABISCO CHIPS AHOY CHUNKY CKIES
+244,AA246,MR411411,,,,,Digital Cameras,EA,,,Nikon D90 12.3 Megapix Digit SLR Camera
+245,AA247,MR411610,,,,,Mobile Phones,EA,,,Nokia - N82 Mobile Phone  - Black
+246,AA248,MR411611,,,,,Mobile Phones,EA,,,Nokia - N95 Mobile Phone  - Black
+247,AA249,MR411521,,,,,Laptop,EA,,,Notebook (DE)
+248,AA250,MR411520,,,,,Laptop,EA,,,Notebook (EN)
+249,AA251,MR412421,,,,,Office Chairs,EA,,,Office  Deluxe Mid Back Managers Chair
+250,AA252,MR311261,,,,,Juice,EA,,,Orange Juice 180ml
+251,AA253,MR311811,,,,,Herbs & Spices,EA,,,Oregano Leaves
+252,AA254,MR311361,,,,,Popcorn,EA,,,ORGANICS ORGANIC WHITE CHEDDAR POPCORN
+253,AA255,MR311621,,,,,Canned Meat,EA,,,PAM MEAT LITE LUNCHEON SINGLES
+254,AA256,MR411124,,,,,Plasma,EA,,,"PANASONIC - 30"" FLAT-PANEL PLASMA HD"
+255,AA257,MR411125,,,,,Plasma,EA,,,"PANASONIC - 32"" FLAT-PANEL PLASMA HD"
+256,AA258,MR411126,,,,,Plasma,EA,,,"PANASONIC - 37"" FLAT-PANEL PLASMA HD"
+257,AA259,MR318705,,,,,Pasta,EA,,,Penne
+258,AA260,MR318707,,,,,Pasta,EA,,,Penne - Gluten Free
+259,AA261,MR318708,,,,,Pasta,EA,,,Penne - GMO Free Organic
+260,AA262,MR318706,,,,,Pasta,EA,,,Penne - Wheat
+261,AA263,MR320215,,,,,soda,EA,,,PEPSI Cola 2 liter
+262,AA264,MR320216,,,,,soda,EA,,,PEPSI Diet Cola 2liter
+263,AA265,MR315311,,,,,Hand & Body Lotion,EA,,,PH 5 BODY MILK 250ML
+264,AA266,MR411127,,,,,Plasma,EA,,,"PHILIPS - 30"" FLAT-PANEL PLASMA HDTV"
+265,AA267,MR411128,,,,,Plasma,EA,,,"PHILIPS - 32"" FLAT-PANEL PLASMA HDTV"
+266,AA268,MR411129,,,,,Plasma,EA,,,"PHILIPS - 37"" FLAT-PANEL PLASMA HDTV"
+267,AA269,MR516101016,,,,,Pants,PCE,,,Platinum Charm  Vintage Bleach Size 28
+268,AA270,MR516101017,,,,,Pants,PCE,,,Platinum Charm  Vintage Bleach Size 29
+269,AA271,MR516101018,,,,,Pants,PCE,,,Platinum Charm  Vintage Bleach Size 30
+270,AA272,MR516101019,,,,,Pants,PCE,,,Platinum Charm  Vintage Bleach Size 31
+271,AA273,MR516101020,,,,,Pants,PCE,,,Platinum Charm  Vintage Bleach Size 32
+272,AA274,MR516101011,,,,,Pants,PCE,,,Platinum Charm Or  Antique Wash Size 28
+273,AA275,MR516101012,,,,,Pants,PCE,,,Platinum Charm Or  Antique Wash Size 29
+274,AA276,MR516101013,,,,,Pants,PCE,,,Platinum Charm Or  Antique Wash Size 30
+275,AA277,MR516101014,,,,,Pants,PCE,,,Platinum Charm Or  Antique Wash Size 31
+276,AA278,MR516101015,,,,,Pants,PCE,,,Platinum Charm Or  Antique Wash Size 32
+277,AA279,MR516101021,,,,,Pants,PCE,,,Platinum Charm Orig Dark Denim  Size 28
+278,AA280,MR516101022,,,,,Pants,PCE,,,Platinum Charm Orig Dark Denim Size 29
+279,AA281,MR516101023,,,,,Pants,PCE,,,Platinum Charm Orig Dark Denim Size 30
+280,AA282,MR516101024,,,,,Pants,PCE,,,Platinum Charm Orig Dark Denim Size 31
+281,AA283,MR516101025,,,,,Pants,PCE,,,Platinum Charm Orig Dark Denim Size 32
+282,AA284,MR516101006,,,,,Pants,PCE,,,Platinum Charm Original  White Size 28
+283,AA285,MR516101007,,,,,Pants,PCE,,,Platinum Charm Original  White Size 29
+284,AA286,MR516101008,,,,,Pants,PCE,,,Platinum Charm Original  White Size 30
+285,AA287,MR516101009,,,,,Pants,PCE,,,Platinum Charm Original  White Size 31
+286,AA288,MR516101010,,,,,Pants,PCE,,,Platinum Charm Original  White Size 32
+287,AA289,MR516101001,,,,,Pants,PCE,,,Platinum Charm Original F  Blue Size 28
+288,AA290,MR516101002,,,,,Pants,PCE,,,Platinum Charm Original F  Blue Size 29
+289,AA291,MR516101003,,,,,Pants,PCE,,,Platinum Charm Original F  Blue Size 30
+290,AA292,MR516101223,,,,,Pants,PCE,,,Platinum Charm Original F  Blue Size 28
+291,AA293,MR545101003,,,,,Pants,PCE,,,Platinum Charm Original F  Blue Size 29
+292,AA294,MR516101254,,,,,Pants,PCE,,,Platinum Charm Original F  Blue Size 30
+293,AA295,MR516101004,,,,,Pants,PCE,,,Platinum Charm Original F  Blue Size 31
+294,AA296,MR516101005,,,,,Pants,PCE,,,Platinum Charm Original F  Blue Size 32
+295,AA297,MR516235,,,,,Powders & Blushes,EA,,,Pressed Powder - Medium
+296,AA298,MR318313,,,,,Pizza,EA,,,PRIVATE LABEL CLASSIC PIZZA 1KG
+297,AA299,MR318312,,,,,Pizza,EA,,,PRIVATE LABEL CLASSIC PIZZA 725G
+298,AA300,MR314104,,,,,Random Weight,EA,,,Private Label Grated Parmesan
+299,AA301,MR314103,,,,,Random Weight,EA,,,Private Label Shredded Parmesan
+300,AA302,MR319111,,,,,Beach Games,EA,,,RED MINI RUBBER BOAT
+301,AA303,MR713345,,,,,Fresh,EA,,,Red Onion
+302,AA304,MR313104,,,,,Fresh,CT,,,Roma Tomato
+303,AA305,MR714345,,,,,Fresh,EA,,,Roma Tomato Organic
+304,AA306,MR535158,,,,,RF16231 Fine Watches,EA,,,Rose Gold-Tone Watch
+305,AA307,MR411120,,,,,Plasma,EA,,,"sanxin 50"" Class 1080p HDTV"
+306,AA308,MR411121,,,,,Plasma,EA,,,"sanxin 65"" Class 1080p HDTV"
+307,AA309,MR716345,,,,,Scarf,EA,,,Scarf Black
+308,AA310,MR717345,,,,,Scarf,EA,,,Scarf Blue
+309,AA311,MR718345,,,,,Scarf,EA,,,Scarf Red
+310,AA312,MR550054004,,,,,Scarf,EA,,,Scarf White
+311,AA313,MR550054005,,,,,Scarf,EA,,,Scarf Yellow
+312,AA314,MR311362,,,,,Popcorn,EA,,,SECRET HMSTYL POP MCRWAV POPCORN SNK BGS
+313,AA315,MR700046,,,,,T-Shirts,EA,,,"ShortSleeve T-Shirt, roundneck, black,38"
+314,AA316,MR700047,,,,,T-Shirts,EA,,,"ShortSleeve T-Shirt, roundneck, black,40"
+315,AA317,MR700043,,,,,T-Shirts,EA,,,"ShortSleeve T-Shirt, V-neck, black, 40"
+316,AA318,MR700044,,,,,T-Shirts,EA,,,"ShortSleeve T-Shirt, V-neck, black, 42"
+317,AA319,MR700045,,,,,T-Shirts,EA,,,"ShortSleeve T-Shirt, V-neck, black, 44"
+318,AA320,MR516112025,,,,,Jackets,EA,,,"Signature Cardigan, Black, Extra Large"
+319,AA321,MR516112021,,,,,Jackets,EA,,,"Signature Cardigan, Black, Extra Small"
+320,AA322,MR516112024,,,,,Jackets,EA,,,"Signature Cardigan, Black, Large"
+321,AA323,MR516112023,,,,,Jackets,EA,,,"Signature Cardigan, Black, Medium"
+322,AA324,MR516112022,,,,,Jackets,EA,,,"Signature Cardigan, Black, Small"
+323,AA325,MR516112006,,,,,Jackets,EA,,,"Signature Cardigan, Green, Extra Large"
+324,AA326,MR516112010,,,,,Jackets,EA,,,"Signature Cardigan, Green, Extra Small"
+325,AA327,MR516112009,,,,,Jackets,EA,,,"Signature Cardigan, Green, Large"
+326,AA328,MR516112008,,,,,Jackets,EA,,,"Signature Cardigan, Green, Medium"
+327,AA329,MR516112007,,,,,Jackets,EA,,,"Signature Cardigan, Green, Small"
+328,AA330,MR516112017,,,,,Jackets,EA,,,"Signature Cardigan, Navy, Extra Small"
+329,AA331,MR516112020,,,,,Jackets,EA,,,"Signature Cardigan, Navy, Extra Large"
+330,AA332,MR516112016,,,,,Jackets,EA,,,Signature Cardigan Navy Extra Small
+331,AA333,MR516112019,,,,,Jackets,EA,,,"Signature Cardigan, Navy, Large"
+332,AA334,MR516112018,,,,,Jackets,EA,,,"Signature Cardigan, Navy, Medium"
+333,AA335,MR516112005,,,,,Jackets,EA,,,"Signature Cardigan, Red, Extra Large"
+334,AA336,MR516112001,,,,,Jackets,EA,,,"Signature Cardigan, Red, Extra Small"
+335,AA337,MR516112004,,,,,Jackets,EA,,,"Signature Cardigan, Red, Large"
+336,AA338,MR516112003,,,,,Jackets,EA,,,"Signature Cardigan, Red, Medium"
+337,AA339,MR516112002,,,,,Jackets,EA,,,"Signature Cardigan, Red, Small"
+338,AA340,MR516112015,,,,,Jackets,EA,,,"Signature Cardigan, White, Extra Large"
+339,AA341,MR516112011,,,,,Jackets,EA,,,"Signature Cardigan, White, Extra Small"
+340,AA342,MR516112014,,,,,Jackets,EA,,,"Signature Cardigan, White, Large"
+341,AA343,MR516112013,,,,,Jackets,EA,,,"Signature Cardigan, White, Medium"
+342,AA344,MR516112012,,,,,Jackets,EA,,,"Signature Cardigan, White, Small"
+343,AA345,MR535159,,,,,RF16231 Fine Watches,EA,,,Silicone Gold-Tone Smart Watch
+344,AA346,MR314112,,,,,Pastries,EA,,,Skim Milk 1Gallon
+345,AA347,MR722345,,,,,Plasma,EA,,,"Songxia - 30"" FLAT-PANEL PLASMA HD"
+346,AA348,MR722349,,,,,Plasma,EA,,,"Songxia - 32"" FLAT-PANEL PLASMA HD"
+347,AA349,MR755349,,,,,Plasma,EA,,,"Songxia - 37"" FLAT-PANEL PLASMA HD"
+348,AA350,MR411820,,,,,PlayStation 3,EA,,,Suoni - PlayStation 3 (120GB)
+349,AA351,MR411821,,,,,PlayStation 3,EA,,,Suoni - PlayStation 3 (250GB)
+350,AA352,MR318411,,,,,Pastries,EA,,,Sour Dough Bread
+351,AA353,MR311130,,,,,Cold Cereal,CT,,,"Soy -Flax Clusters, 12oz"
+352,AA354,MR318701,,,,,Pasta,EA,,,Spaghetti 
+353,AA355,MR318703,,,,,Pasta,EA,,,Spaghetti - Gluten Free
+354,AA356,MR318704,,,,,Pasta,EA,,,"Spaghetti - GMO Free, Organic"
+355,AA357,MR318702,,,,,Pasta,EA,,,Spaghetti - Wheat
+356,AA358,MR732345,,,,,Chargers,EA,,,Sportscap black without logo
+357,AA359,MR315231,,,,,Conditioners,EA,,,Suave Conditioner BioBasics Conditioner
+358,AA360,MR315201,,,,,Shampoo,EA,,,Suave Shampoo Suave for Men
+359,AA361,MR550170,,,,,Sunglasses,EA,,,Sunglasses (unisex)
+360,AA362,MR550270,,,,,Sunglasses,EA,,,Sunglasses model 01
+361,AA363,MR742345,,,,,Fresh,EA,,,Sweet Onion
+362,AA364,MR412123,,,,,Chairs,EA,,,Teak Chair
+363,AA365,MR311812,,,,,Herbs & Spices,EA,,,Thyme Leaves
+364,AA366,MR516236,,,,,Powders & Blushes,EA,,,Tiffany's baby powder
+365,AA367,MR317101,,,,,Diet,EA,,,Tofu 
+366,AA368,MR311650,,,,,Pasta Sauce,EA,,,Tomato Basil
+367,AA369,MR311651,,,,,Pasta Sauce,EA,,,Tomato Basil Gluten Free
+368,AA370,MR311652,,,,,Pasta Sauce,EA,,,"Tomato Basil GMO Free, Organic"
+369,AA371,MR311653,,,,,Pasta Sauce,EA,,,Tomato Basil Vegetarian
+370,AA372,MR412141,,,,,Deco,EA,,,Tuexedo Vase
+371,AA373,MR320213,,,,,Soda,EA,,,Vanilla Coca Cola 2liter
+372,AA374,MR516134,,,,,Jewellery,EA,,,Vislee Necklace
+373,AA375,MR411910,,,,,Washers & Dryers,EA,,,Washing Machines
+374,AA376,MR311221,,,,,Water,EA,,,Water 24 ct
+375,AA377,MR319112,,,,,Water,EA,,,WATER BLASTER
+376,AA378,MR752345,,,,,Fresh,EA,,,White Onion
+377,AA379,MR318410,,,,,Pastries,EA,,,Whole Wheat Artisan Bread
+378,AA380,MR550053010,,,,,Sandals,EA,,,"Women Sandals, White, 10"
+379,AA381,MR550251008,,,,,Coat,EA,,,"Women's Boat Neck Bl, Black, Extra Large"
+380,AA382,MR550051008,,,,,Coat,EA,,,"Women's Boat Neck Bl, White, Extra Large"
+381,AA383,MR550151008,,,,,Coat,EA,,,"Women's Boat Neck Blo, Blue, Extra Large"
+382,AA384,MR550251007,,,,,Coat,EA,,,"Women's Boat Neck Blou, Red, Extra Large"
+383,AA385,MR550251006,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Black, Large"
+384,AA386,MR550251004,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Black, Medium"
+385,AA387,MR550051005,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Blue, Large"
+386,AA388,MR550051003,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Blue, Medium"
+387,AA389,MR550151004,,,,,Coat,EA,,,Women's Boat Neck Blouse Blue Medium
+388,AA390,MR550051001,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Black, Small"
+389,AA391,MR550151002,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Blue, Small"
+390,AA392,MR550151005,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Red, Large"
+391,AA393,MR550151003,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Red, Medium"
+392,AA394,MR550151001,,,,,Coat,EA,,,"Women's Boat Neck Blouse, Red, Small"
+393,AA395,MR550051006,,,,,Coat,EA,,,"Women's Boat Neck Blouse, White, Large"
+394,AA396,MR550481006,,,,,Coat,EA,,,"Women's Boat Neck Blouse, White, Medium"
+395,AA397,MR514051006,,,,,Coat,EA,,,"Women's Boat Neck Blouse, White, Small"
+396,AA398,MR550153001,,,,,Sandals,EA,,,"Women's Sandals, Blue, 5"
+397,AA399,MR550053001,,,,,Sandals,EA,,,"Women's Sandals, Blue, 6"
+398,AA400,MR550253003,,,,,Sandals,EA,,,Women's Sandals Blue 6
+399,AA401,MR550053003,,,,,Sandals,EA,,,"Women's Sandals, Blue, 7"
+400,AA402,MR550153007,,,,,Sandals,EA,,,Women's Sandals Blue 8
+401,AA403,MR550253007,,,,,Sandals,EA,,,"Women's Sandals, Blue, 8"
+402,AA404,MR550053007,,,,,Sandals,EA,,,"Women's Sandals, Blue, 9"
+403,AA405,MR550153009,,,,,Sandals,EA,,,"Women's Sandals, Blue, 10"
+404,AA406,MR550253002,,,,,Sandals,EA,,,"Women's Sandals, White, 5"
+405,AA407,MR550053002,,,,,Sandals,EA,,,"Women's Sandals, White, 6"
+406,AA408,MR550153004,,,,,Sandals,EA,,,Women's Sandals White 6
+407,AA409,MR550253004,,,,,Sandals,EA,,,Women's Sandals White 6
+408,AA410,MR550053004,,,,,Sandals,EA,,,"Women's Sandals, White, 7"
+409,AA411,MR550153006,,,,,Sandals,EA,,,Women's Sandals White 7
+410,AA412,MR550253006,,,,,Sandals,EA,,,Women's Sandals White 7
+411,AA413,MR550053006,,,,,Sandals,EA,,,"Women's Sandals, White, 8"
+412,AA414,MR550152208,,,,,Scarf,EA,,,"Women's Scarf, Red"
+413,AA415,MR550153010,,,,,Sandals,EA,,,"Women's Sandals, White, 9"
+414,AA416,MR550154002,,,,,Scarf,EA,,,"Women's Scarf, Black"
+415,AA417,MR550154001,,,,,Scarf,EA,,,"Women's Scarf, Blue"
+416,AA418,MR550154004,,,,,Scarf,EA,,,"Women's Scarf, White"
+417,AA419,MR550154005,,,,,Scarf,EA,,,"Women's Scarf, Yellow"
+418,AA420,MR550252008,,,,,Coat,EA,,,"Women's Scoop Neck B, White, Extra Large"
+419,AA421,MR550152007,,,,,Coat,EA,,,"Women's Scoop Neck Blo, Red, Extra Large"
+420,AA422,MR550052004,,,,,Coat,EA,,,"Women's Scoop Neck Blous, Yellow, Medium"
+421,AA423,MR550152005,,,,,Coat,EA,,,"Women's Scoop Neck Blouse, Red, Large"
+422,AA424,MR550052003,,,,,Coat,EA,,,"Women's Scoop Neck Blouse, Red, Medium"
+423,AA425,MR550152001,,,,,Coat,EA,,,"Women's Scoop Neck Blouse, Red, Small"
+424,AA426,MR550252001,,,,,Coat,EA,,,"Women's Scoop Neck Blouse, White, Large"
+425,AA427,MR550252004,,,,,Coat,EA,,,"Women's Scoop Neck Blouse, White, Medium"
+426,AA428,MR550052008,,,,,Coat,EA,,,"Women's Scoop Neck, Yellow, Extra Large"
+427,AA429,MR550152006,,,,,Coat,EA,,,"Women's Scoop Neck Blouse, Yellow, Large"
+428,AA430,MR550152008,,,,,Coat,EA,,,Women's Scoop Neck Blouse Yellow Extra Large
+429,AA431,MR550152002,,,,,Coat,EA,,,"Women's Scoop Neck Blouse, White, Medium"
+430,AA432,MR550150008,,,,,Coat,EA,,,"Women's V-Neck Blous, Black, Extra Large"
+431,AA433,MR550150006,,,,,Coat,EA,,,"Women's V-Neck Blouse, Black, Large"
+432,AA434,MR550150004,,,,,Coat,EA,,,"Women's V-Neck Blouse, Black, Medium"
+433,AA435,MR550150002,,,,,Coat,EA,,,"Women's V-Neck Blouse, Black, Small"
+434,AA436,MR559152202,,,,,Coat,EA,,,"Women's V-Neck Blouse, Blue, Extra Large"
+435,AA437,MR550150005,,,,,Coat,EA,,,"Women's V-Neck Blouse, Blue, Large"
+436,AA438,MR559152272,,,,,Coat,EA,,,"Women's V-Neck Blouse, Blue, Medium"
+437,AA439,MR550150001,,,,,Coat,EA,,,"Women's V-Neck Blouse, Blue, Small"
+438,AA440,MR550250007,,,,,Coat,EA,,,"Women's V-Neck Blouse, Red, Extra Large"
+439,AA441,MR550250005,,,,,Coat,EA,,,"Women's V-Neck Blouse, Red, Large"
+440,AA442,MR550250003,,,,,Coat,EA,,,"Women's V-Neck Blouse, Red, Medium"
+441,AA443,MR550050001,,,,,Coat,EA,,,"Women's V-Neck Blouse, Red, Small"
+442,AA444,MR550250001,,,,,Coat,EA,,,"Women's V-Neck Blouse, White, Large"
+443,AA445,MR550250006,,,,,Coat,EA,,,"Women's V-Neck Blous, White, Extra Large"
+444,AA446,MR550250004,,,,,Coat,EA,,,"Women's V-Neck Blouse, White, Medium"
+445,AA447,MR550250002,,,,,Coat,EA,,,"Women's V-Neck Blouse, White, Small"
+446,AA448,MR762345,,,,,Fresh,EA,,,Yellow Onion
+447,AA449,MR314311,,,,,Yoghurts,EA,,,Yoplait Strawberry Yogurt 250g
