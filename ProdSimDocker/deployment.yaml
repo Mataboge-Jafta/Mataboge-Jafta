@@ -28,8 +28,8 @@ spec:
         app: prodsimapp
     spec:
       containers:
-        - name: 72455416d02e
-        - image: prodsimapp
+        - name: 05ff3c32efe0
+        - image: jaftamat/prodsimapp:latest
 
           ports:
           - containerPort: 8888
